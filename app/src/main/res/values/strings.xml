@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P37S2120222GERH</string>
+    <string name="tim">Suma de dos numeros</string>
+    <string name="ln1">Ingresa el primer numero</string>
+    <string name="ln2">Ingresa el segundo numero</string>
+    <string name="place1">Coloca el numero aqui</string>
+    <string name="place2">Coloca el segundo numero aqui</string>
+    <string name="lbtncalcula">Calcula</string>
+    <string name="lblresultado">Resultado</string>
+    <string name="btnsuma">Suma</string>
+    <string name="btnresta">Resta</string>
+    <string name="btnmul">Multiplicacion</string>
+    <string name="btndiv">Division</string>
+
+</resources>
